@@ -1,0 +1,16 @@
+-Computer vision is a field of study focused on the problem of helping computers to see,subfield of artificial intelligence and machine learning
+-Computer vision is distinct from image processing,computer vision system may require image processing to be applied to raw input
+-challenge of computer vision ,Computer vision seems easy,because it is so effortless for humans
+-first challenge is that we don’t have a strong grasp of how human vision works,Another reason why it is such a challenging problem is because of the complexity inherent in the visual world
+-Computers work well for tightly constrained problems, not open unbounded problems like visual perception
+-this is a list of some high-level problems where we have seen success with computer vision:
+  -Optical character recognition (OCR)
+  -Machine inspection
+  -Retail (e.g. automated checkouts)
+  -3D model building (photogrammetry)
+  -Medical imaging
+  -Automotive safety
+  -Match move (e.g. merging CGI with live actors in movies)
+  -Motion capture (mocap)
+  -Surveillance
+  -Fingerprint recognition and biometrics
